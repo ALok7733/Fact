@@ -7,7 +7,7 @@ public class Factorial {
 //		System.out.println("Enetr a number for which you need factorial");
 //		int num = sc.nextInt();
 		
-		int num = Factor.generateRandom();
+		int num = Factorial.generateRandom();
 //		System.out.println("Random numer is: "+num);
 		int res = 1;
 		for(int i=1;i<=num;i++) {
